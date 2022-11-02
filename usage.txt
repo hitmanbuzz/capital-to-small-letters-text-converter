@@ -1,0 +1,4 @@
+just simply copy all your texts from the source(text file or any file or sites)
+paste all the text in Words.txt file and run the main.py(python file)
+then your all text/s should be turned into small letters text/s
+open the Result.txt and there you will find all the result - ie. converted text/s
